@@ -1,0 +1,15 @@
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.AssemblyInfoInputs.cache
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.AssemblyInfo.cs
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.sourcelink.json
+C:\SIO2024\CS\Exercice3\bin\Debug\net9.0\Exercice3.exe
+C:\SIO2024\CS\Exercice3\bin\Debug\net9.0\Exercice3.deps.json
+C:\SIO2024\CS\Exercice3\bin\Debug\net9.0\Exercice3.runtimeconfig.json
+C:\SIO2024\CS\Exercice3\bin\Debug\net9.0\Exercice3.dll
+C:\SIO2024\CS\Exercice3\bin\Debug\net9.0\Exercice3.pdb
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.dll
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\refint\Exercice3.dll
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.pdb
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\Exercice3.genruntimeconfig.cache
+C:\SIO2024\CS\Exercice3\obj\Debug\net9.0\ref\Exercice3.dll
