@@ -1,0 +1,14 @@
+C:\SIO2024\CS\Variables\bin\Debug\net9.0\Variables.exe
+C:\SIO2024\CS\Variables\bin\Debug\net9.0\Variables.deps.json
+C:\SIO2024\CS\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+C:\SIO2024\CS\Variables\bin\Debug\net9.0\Variables.dll
+C:\SIO2024\CS\Variables\bin\Debug\net9.0\Variables.pdb
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\Variables.dll
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\refint\Variables.dll
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\Variables.pdb
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+C:\SIO2024\CS\Variables\obj\Debug\net9.0\ref\Variables.dll
