@@ -5,10 +5,6 @@
 int nombre = Console.ReadLine();
 
 if (nombre % 2 == 0)
-{
     Console.WriteLine(nombre + " est pair.");
-}
 else
-{
     Console.WriteLine(nombre + " est impair.");
-}
