@@ -1,0 +1,5 @@
+C:\SIO2024\CS\Exercice7\obj\Debug\net9.0\Exercice7.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\Exercice7\obj\Debug\net9.0\Exercice7.AssemblyInfoInputs.cache
+C:\SIO2024\CS\Exercice7\obj\Debug\net9.0\Exercice7.AssemblyInfo.cs
+C:\SIO2024\CS\Exercice7\obj\Debug\net9.0\Exercice7.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\Exercice7\obj\Debug\net9.0\Exercice7.sourcelink.json
