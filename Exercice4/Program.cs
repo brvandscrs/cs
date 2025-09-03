@@ -2,7 +2,7 @@
 
 // Demander à l'utilisateur d'entrer un nombre et afficher s'il est pair ou impair
 
-int nombre = Console.ReadLine();
+int nombre = int.Parse(Console.ReadLine());
 
 if (nombre % 2 == 0)
     Console.WriteLine(nombre + " est pair.");
