@@ -68,12 +68,15 @@ else
 
 switch (agePierre)
 {
-    case > agePaul:
+    case var age when age > agePaul:
         Console.WriteLine("Pierre est plus âgé que Paul.");
+        break;
 
-    case < agePaul:
+    case var age when age < agePaul:
         Console.WriteLine("Paul est plus âgé que Pierre.");
+        break;
 
     default:
         Console.WriteLine("Pierre et Paul ont tous les deux le même âge.");
+        break;
 }
