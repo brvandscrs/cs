@@ -1,0 +1,15 @@
+C:\SIO2024\CS\Exercice9\bin\Debug\net9.0\Exercice9.exe
+C:\SIO2024\CS\Exercice9\bin\Debug\net9.0\Exercice9.deps.json
+C:\SIO2024\CS\Exercice9\bin\Debug\net9.0\Exercice9.runtimeconfig.json
+C:\SIO2024\CS\Exercice9\bin\Debug\net9.0\Exercice9.dll
+C:\SIO2024\CS\Exercice9\bin\Debug\net9.0\Exercice9.pdb
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.AssemblyInfoInputs.cache
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.AssemblyInfo.cs
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.sourcelink.json
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.dll
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\refint\Exercice9.dll
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.pdb
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\Exercice9.genruntimeconfig.cache
+C:\SIO2024\CS\Exercice9\obj\Debug\net9.0\ref\Exercice9.dll
