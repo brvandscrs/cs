@@ -15,5 +15,5 @@ Console.WriteLine(prix);
 int quantite = 3;
 Console.WriteLine(quantite);
 
-int total = prix * quantite;
+double total = prix * quantite;
 Console.WriteLine(total);
