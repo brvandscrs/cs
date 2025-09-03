@@ -2,7 +2,7 @@
 
 // Demander à 'utilisateur son âge et afficher "Tu es mineur" si l'âge est < 18 ou "Tu es majeur" si l'âge >= 18
 
-int ageUtilisateur = Console.ReadLine();
+int ageUtilisateur = int.Parse(Console.ReadLine());
 
 if (ageUtilisateur < 18)
     Console.WriteLine("Tu es mineur.");
