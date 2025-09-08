@@ -30,6 +30,8 @@ string MessageBonjour()
     return "Bonjour";
 }
 
+Console.WriteLine(MessageBonjour());
+
 // Exercice 3
 
 Console.WriteLine("Exercice 3");
