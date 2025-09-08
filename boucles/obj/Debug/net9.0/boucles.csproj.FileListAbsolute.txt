@@ -1,0 +1,15 @@
+C:\SIO2024\CS\boucles\bin\Debug\net9.0\boucles.exe
+C:\SIO2024\CS\boucles\bin\Debug\net9.0\boucles.deps.json
+C:\SIO2024\CS\boucles\bin\Debug\net9.0\boucles.runtimeconfig.json
+C:\SIO2024\CS\boucles\bin\Debug\net9.0\boucles.dll
+C:\SIO2024\CS\boucles\bin\Debug\net9.0\boucles.pdb
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.AssemblyInfoInputs.cache
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.AssemblyInfo.cs
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.sourcelink.json
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.dll
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\refint\boucles.dll
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.pdb
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\boucles.genruntimeconfig.cache
+C:\SIO2024\CS\boucles\obj\Debug\net9.0\ref\boucles.dll
