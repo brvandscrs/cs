@@ -6,7 +6,7 @@ Console.WriteLine("Exercice 1");
 
 int Carre(int nombre)
 {
-    return nombre ^ 2;
+    return Math.Pow(nombre, 2);
 }
 
 // Test 3 fois
