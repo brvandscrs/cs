@@ -3,7 +3,7 @@
 // Déclarer un tableau de prénoms.
 // Avec une boucle foreach, affiche chaque prénom sur une nouvelle ligne.
 
-string prenoms = { "Alise", "Bob", "Charles", "Diana" };
+string[] prenoms = { "Alise", "Bob", "Charles", "Diana" };
 
 foreach (string prenom in prenoms)
 {
