@@ -30,7 +30,7 @@ string MessageBonjour()
     return "Bonjour";
 }
 
-Console.WriteLine(MessageBonjour());
+MessageBonjour();
 
 // Exercice 3
 
@@ -41,4 +41,16 @@ Console.WriteLine("Exercice 3");
 int PlusGrand(int entier1, int entier2)
 {
     return Math.Max(entier1, entier2);
+}
+
+// Test 3 fois
+
+int entier1;
+int entier2;
+
+for (int i = 1; i <= 3; i++)
+{
+    entier1 = Convert.ToInt32(Console.ReadLine());
+    entier2 = Convert.ToInt32(Console.ReadLine());
+    PlusGrand(entier1, entier2);
 }
