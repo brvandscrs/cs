@@ -1,0 +1,15 @@
+C:\SIO2024\CS\Proj\bin\Debug\net9.0\Proj.exe
+C:\SIO2024\CS\Proj\bin\Debug\net9.0\Proj.deps.json
+C:\SIO2024\CS\Proj\bin\Debug\net9.0\Proj.runtimeconfig.json
+C:\SIO2024\CS\Proj\bin\Debug\net9.0\Proj.dll
+C:\SIO2024\CS\Proj\bin\Debug\net9.0\Proj.pdb
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.AssemblyInfoInputs.cache
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.AssemblyInfo.cs
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.sourcelink.json
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.dll
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\refint\Proj.dll
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.pdb
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\Proj.genruntimeconfig.cache
+C:\SIO2024\CS\Proj\obj\Debug\net9.0\ref\Proj.dll
