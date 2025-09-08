@@ -1,0 +1,15 @@
+C:\SIO2024\CS\ExerciceWhile\bin\Debug\net9.0\ExerciceWhile.exe
+C:\SIO2024\CS\ExerciceWhile\bin\Debug\net9.0\ExerciceWhile.deps.json
+C:\SIO2024\CS\ExerciceWhile\bin\Debug\net9.0\ExerciceWhile.runtimeconfig.json
+C:\SIO2024\CS\ExerciceWhile\bin\Debug\net9.0\ExerciceWhile.dll
+C:\SIO2024\CS\ExerciceWhile\bin\Debug\net9.0\ExerciceWhile.pdb
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.AssemblyInfoInputs.cache
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.AssemblyInfo.cs
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.sourcelink.json
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.dll
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\refint\ExerciceWhile.dll
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.pdb
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ExerciceWhile.genruntimeconfig.cache
+C:\SIO2024\CS\ExerciceWhile\obj\Debug\net9.0\ref\ExerciceWhile.dll

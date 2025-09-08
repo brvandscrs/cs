@@ -37,4 +37,5 @@ foreach (int element in tableau)
 {
     Console.WriteLine(element);
 }
+
 Console.WriteLine("Boucle foreach... terminée");
