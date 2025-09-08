@@ -11,5 +11,13 @@ int essais = 0;
 do
 {
     int devinette = Convert.ToInt32(Console.ReadLine());
+    if (devinette < nombreAleatoire)
+    {
+        Console.WriteLine("Trop petit !");
+    }
+    else if (devinette > nombreAleatoire)
+    {
+        Console.WriteLine("Trop grand !");
+    }
 }
 while (devinette != nombreAleatoire);
