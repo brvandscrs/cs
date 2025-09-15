@@ -4,8 +4,7 @@ public class Compte
 {
     public decimal Solde { get; private set; }
 
-    // Constructeur
-    public Compte(string titulaire, decimal soldeInitial)
+    public Compte(decimal soldeInitial)
     {
         Solde = soldeInitial;
     }
