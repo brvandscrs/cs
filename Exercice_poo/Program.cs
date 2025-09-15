@@ -7,8 +7,7 @@
         Compte monCompte = new Compte();
 
         // A partir d'ici, on peut utiliser l'objet maVille
-        // monCompte. = "";        // Affectation du 
-        // monCompte. = "";   // Affectation du 
+        monCompte.Solde = 150.75m;  // Affectation du
 
         // Utilisation de la méthode Afficher() de l'objet maVille
         maVille.AfficherSolde();
