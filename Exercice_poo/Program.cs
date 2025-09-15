@@ -6,8 +6,9 @@
         // Instanciation (créer un objet) d'un objet Compte
         Compte monCompte = new Compte();
 
-        // A partir d'ici, on peut utiliser l'objet maVille
-        monCompte.Solde = 150.75m;  // Affectation du
+        // Affectation du Solde
+        monCompte.Solde = 150.75m;          // Cast par postfixe
+        monCompte.Solde = (decimal)150.75;  // Cast explicite
 
         // Utilisation de la méthode Afficher() de l'objet maVille
         maVille.AfficherSolde();
