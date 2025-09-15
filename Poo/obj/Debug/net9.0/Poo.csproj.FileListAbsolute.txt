@@ -1,0 +1,15 @@
+C:\SIO2024\CS\Poo\bin\Debug\net9.0\Poo.exe
+C:\SIO2024\CS\Poo\bin\Debug\net9.0\Poo.deps.json
+C:\SIO2024\CS\Poo\bin\Debug\net9.0\Poo.runtimeconfig.json
+C:\SIO2024\CS\Poo\bin\Debug\net9.0\Poo.dll
+C:\SIO2024\CS\Poo\bin\Debug\net9.0\Poo.pdb
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.AssemblyInfoInputs.cache
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.AssemblyInfo.cs
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.csproj.CoreCompileInputs.cache
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.sourcelink.json
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.dll
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\refint\Poo.dll
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.pdb
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\Poo.genruntimeconfig.cache
+C:\SIO2024\CS\Poo\obj\Debug\net9.0\ref\Poo.dll
