@@ -2,50 +2,50 @@ public class Titulaire
 {
     // Propriétés
 
-    public string _id { get; set; }
-    private string Id
+    private string _id { get; set; }
+    public string Id
     {
         get { return id; }
         set { id = value; }
     }
 
-    public string _prenom { get; set; }
-    private string Prenom
+    private string _prenom { get; set; }
+    public string Prenom
     {
         get { return _prenom; }
         set { _prenom = value; }
     }
 
-    public string _adresse { get; set; }
-    private string Adresse
+    private string _adresse { get; set; }
+    public string Adresse
     {
         get { return _adresse; }
         set { _adresse = value; }
     }
 
-    public string _codePostal { get; set; }
-    private string CodePostal
+    private string _codePostal { get; set; }
+    public string CodePostal
     {
         get { return _codePostal; }
         set { _codePostal = value; }
     }
 
-    public string _ville { get; set; }
-    private string Ville
+    private string _ville { get; set; }
+    public string Ville
     {
         get { return _ville; }
         set { _ville = value; }
     }
 
-    public string _tel { get; set; }
-    private string Tel
+    private string _tel { get; set; }
+    public string Tel
     {
         get { return _tel; }
         set { _tel = value; }
     }
 
-    public string _email { get; set; }
-    private string Email
+    private string _email { get; set; }
+    public string Email
     {
         get { return _email; }
         set { _email = value; }

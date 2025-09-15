@@ -4,8 +4,8 @@ public class Compte
 {
     // Propriétés
 
-    public decimal _solde { get; private set; }
-    private decimal Solde
+    private decimal _solde { get; private set; }
+    public decimal Solde
     {
         get { return _solde; }
         set { _solde = value; }
