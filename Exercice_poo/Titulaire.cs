@@ -66,7 +66,7 @@ public class Titulaire
 
     // Méthodes
 
-    public void AfficherTitulaire()
+    public void Afficher()
     {
         Console.WriteLine($"ID: {Id}, Prénom: {Prenom}, Adresse: {Adresse}, Code Postal: {CodePostal}, Ville: {Ville}, Téléphone: {Tel}, Email: {Email}");
     }

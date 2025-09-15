@@ -20,7 +20,7 @@ public class Compte
 
     // Méthodes
 
-    public void AfficherSolde()
+    public void Afficher()
     {
         Console.WriteLine($"Solde: {Solde}");
     }
