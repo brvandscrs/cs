@@ -9,6 +9,13 @@ public class Titulaire
         set { id = value; }
     }
 
+    private string _nom { get; set; }
+    public string Nom
+    {
+        get { return _nom; }
+        set { _nom = value; }
+    }
+
     private string _prenom { get; set; }
     public string Prenom
     {
@@ -53,9 +60,10 @@ public class Titulaire
 
     // Constructeur
 
-    public Titulaire(string id, string prenom, string adresse, string codePostal, string ville, string tel, string email)
+    public Titulaire(string id, string nom, string prenom, string adresse, string codePostal, string ville, string tel, string email)
     {
-        Id = id;
+        // Id = id;
+        Nom = nom;
         Prenom = prenom;
         Adresse = adresse;
         CodePostal = codePostal;
@@ -68,6 +76,6 @@ public class Titulaire
 
     public void Afficher()
     {
-        Console.WriteLine($"ID: {Id}, Prénom: {Prenom}, Adresse: {Adresse}, Code Postal: {CodePostal}, Ville: {Ville}, Téléphone: {Tel}, Email: {Email}");
+        Console.WriteLine($"ID: {Id}, Nom: {Nom}, Prénom: {Prenom}, Adresse: {Adresse}, Code Postal: {CodePostal}, Ville: {Ville}, Téléphone: {Tel}, Email: {Email}");
     }
 }
