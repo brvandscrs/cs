@@ -2,7 +2,7 @@
 
 public class Compte
 {
-    public decimal Solde { get; private set; }
+    private decimal Solde { get; private set; }
 
     public Compte(decimal soldeInitial)
     {
