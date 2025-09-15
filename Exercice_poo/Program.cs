@@ -7,8 +7,9 @@
         Compte monCompte = new Compte();
 
         // Affectation du Solde
-        monCompte.Solde = 150.75m;          // Cast par postfixe
-        monCompte.Solde = (decimal)150.75;  // Cast explicite
+        monCompte.Solde = 150.75m;
+            // Cast par postfixe : 150.75m
+            // Cast explicite : (decimal)150.75
 
         // Utilisation de la méthode Afficher() de l'objet maVille
         maVille.AfficherSolde();
