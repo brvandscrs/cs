@@ -9,3 +9,7 @@ foreach (string prenom in prenoms)
 {
     Console.WriteLine(prenom);
 }
+
+// Créer un tableau de 5 prénoms puis afficher le tableau avec foreach.
+
+string[] prenoms2 = { "Bryan", "Léo", "Mattéo", "Yanis", "Ulysse"}

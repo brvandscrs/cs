@@ -15,7 +15,16 @@
         maVille.AfficherSolde();
 
         // Instanciation (créer un objet) d'un objet Titulaire
-        Titulaire monTitulaire = new Titulaire("T001", "Alice Dupont", "123 Rue Principale", "75001", "Paris", "0123456789", "alide.dupont@email.com");
-        monTitulaire
+        Titulaire monTitulaire = new Titulaire();
+        monTitulaire.Nom = "Dupont";
+        monTitulaire.Prenom = "Alice";
+        monTitulaire.Adresse = "123 Rue Principale";
+        monTitulaire.CodePostal = "75001";
+        monTitulaire.Ville = "Paris";
+        monTitulaire.Tel = "0123456789";
+        monTitulaire.Email = "alice.dupont@email.com";
+
+        // Utilisation de la méthode Afficher() de l'objet monTitulaire
+        monTitulaire.Afficher();
     }
 }
