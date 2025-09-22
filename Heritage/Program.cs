@@ -3,13 +3,10 @@
     public static void Main(string[] args)
     {
         Console.WriteLine("Héritage C#");
-        // Instanciation d'un utilisateur + initialisation du Nom et Prenom, puis afficher l'utilisateur
         Utilisateur user = new Utilisateur();
-        user.Nom = "Dupont";
-        user.Prenom = "Jean";
+        user.Nom = "Descours";
+        user.Prenom = "Bryan";
         user.Afficher();
-
-        // Transférer la classe Utilisateur du fichier Program.cs au fichier Utilisateur.cs
     }
 }
 
