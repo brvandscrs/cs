@@ -20,6 +20,6 @@ public class Utilisateur
 
     public void Afficher()
     {
-        Console.WriteLine($"{Nom} {Prenom}";)
+        Console.WriteLine($"{Nom} {Prenom}");
     }
 }
